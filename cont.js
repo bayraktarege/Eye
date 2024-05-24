@@ -1,3 +1,6 @@
+// This file is irrelevant
+
+
 class Cont{
     constructor(x, y, n){
         this.x = 0;
